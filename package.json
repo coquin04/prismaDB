@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/coquin04/prismaDB/issues"
   },
-  "homepage": "https://github.com/coquin04/prismaDB#readme"
+  "homepage": "https://github.com/coquin04/prismaDB#readme",
+  "devDependencies": {
+    "jest": "^26.0.0"
+  }
 }
