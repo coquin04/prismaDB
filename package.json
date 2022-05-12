@@ -1,0 +1,19 @@
+{
+  "name": "prismadb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coquin04/prismaDB.git"
+  },
+  "author": "coquin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coquin04/prismaDB/issues"
+  },
+  "homepage": "https://github.com/coquin04/prismaDB#readme"
+}
